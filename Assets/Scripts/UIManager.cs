@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -9,22 +7,15 @@ public class UIManager : MonoBehaviour
     public GameObject Canvas_Selection;
     public GameObject Dragon_Selection;
     public Image Dragon;
-    public Sprite Dragon1;
-    public Sprite Dragon2;
-    public Sprite Dragon3;
-
-    public GameObject DragonSelected1;
-    public GameObject DragonSelected2;
-    public GameObject DragonSelected3;
-
-    public int selectionable = 1;
+    public Sprite[] dragonSprites;  // Usamos un array para almacenar los sprites
+    public GameObject[] dragonSelectedObjects;  // Usamos un array para almacenar los objetos DragonSelected
+    public int selectionable = 0;  // Cambié el valor inicial para que pueda ser 0, 1, 2, 3
 
     void Start()
     {
 
     }
 
-    // Start is called before the first frame update
     public void Selection()
     {
         Canvas_Selection.SetActive(true);
@@ -37,86 +28,34 @@ public class UIManager : MonoBehaviour
         Canvas_Selection.SetActive(false);
     }
 
-
     public void Carousel(string direction)
     {
+        int previousSelection = selectionable;
+
         if (direction == "L")
         {
-            selectionable = selectionable - 1;
-            if (selectionable <= 1)
-            {
-                selectionable = 1;
-            }
-            switch (selectionable)
-            {
-                case 1:
-                    Dragon.sprite = Dragon1;
-                    DragonSelected1.SetActive(true);
-                    DragonSelected2.SetActive(false);
-                    DragonSelected3.SetActive(false);
-                    break;
-
-                case 2:
-                    Dragon.sprite = Dragon2;
-                    DragonSelected1.SetActive(false);
-                    DragonSelected2.SetActive(true);
-                    DragonSelected3.SetActive(false);
-                    break;
-
-                case 3:
-                    Dragon.sprite = Dragon3;
-                    DragonSelected1.SetActive(false);
-                    DragonSelected2.SetActive(false);
-                    DragonSelected3.SetActive(true);
-                    break;
-
-                // Agrega más casos según sea necesario
-
-                default:
-                    // Manejo para el caso en que selectionable no coincida con ningún caso.
-                    break;
-            }
+            selectionable = Mathf.Max(selectionable - 1, 0);
         }
         else
         {
-            selectionable = selectionable + 1;
-            if (selectionable >= 3)
-            {
-                selectionable = 3;
-            }
-
-            switch (selectionable)
-            {
-                case 1:
-                    Dragon.sprite = Dragon1;
-                    DragonSelected1.SetActive(true);
-                    DragonSelected2.SetActive(false);
-                    DragonSelected3.SetActive(false);
-                    break;
-
-                case 2:
-                    Dragon.sprite = Dragon2;
-                    DragonSelected1.SetActive(false);
-                    DragonSelected2.SetActive(true);
-                    DragonSelected3.SetActive(false);
-                    break;
-
-                case 3:
-                    Dragon.sprite = Dragon3;
-                    DragonSelected1.SetActive(false);
-                    DragonSelected2.SetActive(false);
-                    DragonSelected3.SetActive(true);
-                    break;
-
-                // Agrega más casos según sea necesario
-
-                default:
-                    // Manejo para el caso en que selectionable no coincida con ningún caso.
-                    break;
-            }
+            selectionable = Mathf.Min(selectionable + 1, dragonSprites.Length - 1);
         }
 
-        Debug.Log("El valor esta en " + selectionable);
+        if (selectionable != previousSelection)
+        {
+            UpdateDragonSelection();
+        }
+
+        Debug.Log("El valor está en " + selectionable);
     }
 
+    void UpdateDragonSelection()
+    {
+        Dragon.sprite = dragonSprites[selectionable];
+
+        for (int i = 0; i < dragonSelectedObjects.Length; i++)
+        {
+            dragonSelectedObjects[i].SetActive(i == selectionable);
+        }
+    }
 }

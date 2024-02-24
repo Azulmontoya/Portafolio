@@ -156,12 +156,14 @@ MonoBehaviour:
   Canvas_Selection: {fileID: 530218240}
   Dragon_Selection: {fileID: 1157657864}
   Dragon: {fileID: 2116652751}
-  Dragon1: {fileID: 21300000, guid: c5710218541aa8141a0443c3f25978f5, type: 3}
-  Dragon2: {fileID: 21300000, guid: 3491e4e6407024e4db28e92306ae49f3, type: 3}
-  Dragon3: {fileID: 21300000, guid: d1decdedb4e4eab468be6932d61ddb3e, type: 3}
-  DragonSelected1: {fileID: 1160590069}
-  DragonSelected2: {fileID: 1526739798}
-  DragonSelected3: {fileID: 2065201845}
+  dragonSprites:
+  - {fileID: 21300000, guid: c5710218541aa8141a0443c3f25978f5, type: 3}
+  - {fileID: 21300000, guid: 3491e4e6407024e4db28e92306ae49f3, type: 3}
+  - {fileID: 21300000, guid: d1decdedb4e4eab468be6932d61ddb3e, type: 3}
+  dragonSelectedObjects:
+  - {fileID: 1160590069}
+  - {fileID: 1526739798}
+  - {fileID: 2065201845}
   selectionable: 1
 --- !u!4 &177520604
 Transform:
