@@ -1,6 +1,6 @@
 # Portafolio
 
-A Zelda-like clone made using Unity
+A Portafolio made using Unity
 
 # Usage
 
