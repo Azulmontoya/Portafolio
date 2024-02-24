@@ -23,17 +23,6 @@ public class Dragon : MonoBehaviour
         {
             ActivarAnimacion("Take 002");
         }
-
-        // // Puedes agregar más teclas y animaciones según sea necesario
-        // if (Input.GetKeyDown(KeyCode.Alpha1)) // Tecla "1"
-        // {
-        //     ActivarAnimacion("OtraAnimacion1");
-        // }
-
-        // if (Input.GetKeyDown(KeyCode.Alpha2)) // Tecla "2"
-        // {
-        //     ActivarAnimacion("OtraAnimacion2");
-        // }
     }
 
     void ActivarAnimacion(string nombreAnimacion)
