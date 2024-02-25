@@ -10,10 +10,18 @@ public class UIManager : MonoBehaviour
     public Sprite[] dragonSprites;  // Usamos un array para almacenar los sprites
     public GameObject[] dragonSelectedObjects;  // Usamos un array para almacenar los objetos DragonSelected
     public int selectionable = 0;  // Cambié el valor inicial para que pueda ser 0, 1, 2, 3
-
+    public int selectionableLevel = 3;
     void Start()
     {
-
+        // Obtén la instancia del Singleton
+        SingletonManager singletonManager = SingletonManager.Instancia;
+        // Lee el valor de la propiedad 'selection' del Singleton y asígnalo a 'selectionable'
+        selectionableLevel = singletonManager.selection;
+        if(selectionableLevel != 3 ){
+           Canvas_Introduction.SetActive(false);
+           Canvas_Selection.SetActive(false);
+           Dragon_Selection.SetActive(true);
+        }
     }
 
     public void Selection()

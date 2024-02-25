@@ -9,8 +9,13 @@ public class ManagerScene : MonoBehaviour
     public GameObject instruction;
 
     // Start is called before the first frame update
-    public void Return()
+    public void Return(int actualScene)
     {
+        // Obtén la instancia del Singleton
+        SingletonManager singletonManager = SingletonManager.Instancia;
+
+        // Establece el valor de actualScene en la propiedad selection del Singleton
+        singletonManager.selection = actualScene;
         SceneManager.LoadScene("SelectScene");
     }
 
