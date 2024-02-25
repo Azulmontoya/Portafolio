@@ -4849,3 +4849,537 @@ AssetImportParameters requested are different than current active one (requested
   custom:scripting/monoscript/fileName/PostProcessingBehaviour.cs:  -> b0fbf7f67aeee9a6f7db03386dbc8c1e
   custom:scripting/monoscript/fileName/BloomModel.cs:  -> b4ba3e478c2698eb99512ead9d78d360
   custom:scripting/monoscript/fileName/GrainModel.cs:  -> ce4589c9bbcb55f8f632b6617dc5d1f0
+========================================================================
+Received Import Request.
+  Time since last request: 528.525032 seconds.
+  path: Assets/Scenes/Level_Dragon_Fire 1.unity
+  artifactKey: Guid(34a0bb675b5962e418625d9177a230de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level_Dragon_Fire 1.unity using Guid(34a0bb675b5962e418625d9177a230de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e80a266f9967014c5cdb41781719705') in 0.008503 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 13.208105 seconds.
+  path: Assets/Scenes/Level_Dragon_rock.unity
+  artifactKey: Guid(34a0bb675b5962e418625d9177a230de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level_Dragon_rock.unity using Guid(34a0bb675b5962e418625d9177a230de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33ea069b2f2648f6b439dbfe0e3e2efd') in 0.000507 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 124.542361 seconds.
+  path: Assets/Off Axis Studios/Polyworks/Demos/DemoMeshes/RockScene
+  artifactKey: Guid(39cfc9c497082dc42b01badce88c1e89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Off Axis Studios/Polyworks/Demos/DemoMeshes/RockScene using Guid(39cfc9c497082dc42b01badce88c1e89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaefb5583f9f25b09d9ea7cbc097c5ee') in 0.000558 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 24.573624 seconds.
+  path: Assets/Off Axis Studios/Polyworks/Demos/DemoMeshes/RockScene/Assets_Scenario_3.fbx
+  artifactKey: Guid(cb8a8d055ba60e7448d4a430a5635ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Off Axis Studios/Polyworks/Demos/DemoMeshes/RockScene/Assets_Scenario_3.fbx using Guid(cb8a8d055ba60e7448d4a430a5635ff4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52f73a8b0d9c9a893dcb45f4d1519c7c') in 1.519773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1195
+========================================================================
+Received Import Request.
+  Time since last request: 148.540428 seconds.
+  path: Assets/Fantasy Skybox FREE/Cubemaps/FS017
+  artifactKey: Guid(33846b216abaf7a479ea790e21427bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Cubemaps/FS017 using Guid(33846b216abaf7a479ea790e21427bea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '588ccb3bbc116b1796927053edfb9fee') in 0.001718 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.099978 seconds.
+  path: Assets/Fantasy Skybox FREE/Cubemaps/FS017/FS017_Sunset_Cubemap.mat
+  artifactKey: Guid(9153b2dbef5d0b0428e60c092d1b4a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fantasy Skybox FREE/Cubemaps/FS017/FS017_Sunset_Cubemap.mat using Guid(9153b2dbef5d0b0428e60c092d1b4a12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd99f57b8ea448cba933e31c542f4ec97') in 0.014597 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 24.435351 seconds.
+  path: Assets/Scenes/Level_Dragon_Snow.unity
+  artifactKey: Guid(87a7d6bfda729d144b35aec53e3e9681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level_Dragon_Snow.unity using Guid(87a7d6bfda729d144b35aec53e3e9681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a2a2857e59e2e806ce88634788bfaf') in 0.000563 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.619002 seconds.
+  path: Assets/Scenes/Level_Dragon_rock.unity
+  artifactKey: Guid(34a0bb675b5962e418625d9177a230de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Level_Dragon_rock.unity using Guid(34a0bb675b5962e418625d9177a230de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d0def164fea401b61456817f5366a4d') in 0.000548 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 268.159504 seconds.
+  path: Assets/Materials/Scene3
+  artifactKey: Guid(d2dd0583f95f8334a9e6389add2c6b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Scene3 using Guid(d2dd0583f95f8334a9e6389add2c6b39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fded1c4e938eaf5a366e30a53c9a5f9') in 0.000638 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 27.532722 seconds.
+  path: Assets/Materials/Scene3/Rock
+  artifactKey: Guid(6d6b751a752b46149a5d1704b309eb18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Scene3/Rock using Guid(6d6b751a752b46149a5d1704b309eb18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71bfcd4c6040b0033c2fffb38b442d3c') in 0.000468 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.492818 seconds.
+  path: Assets/Materials/Scene3/Rock/Rock037_1K-JPG_AmbientOcclusion.jpg
+  artifactKey: Guid(38f86c14021bbe548bf31603a87dbb3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Scene3/Rock/Rock037_1K-JPG_AmbientOcclusion.jpg using Guid(38f86c14021bbe548bf31603a87dbb3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '215cf076dab863a8e8f15468797740a5') in 0.033175 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Materials/Scene3/Rock/Rock037_1K-JPG_NormalGL.jpg
+  artifactKey: Guid(2cb66f35af5ad114087ed26c1cbab056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Scene3/Rock/Rock037_1K-JPG_NormalGL.jpg using Guid(2cb66f35af5ad114087ed26c1cbab056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b0d6cc1249bfeeed619f06511c8843') in 0.015227 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Materials/Scene3/Rock/Rock037_1K-JPG_Roughness.jpg
+  artifactKey: Guid(42964d1a34936154cb2eec7e6c71266d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Scene3/Rock/Rock037_1K-JPG_Roughness.jpg using Guid(42964d1a34936154cb2eec7e6c71266d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52cee461b82a1d4f05123bd8c75ecd1f') in 0.014089 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Materials/Scene3/Rock/Rock037_1K-JPG_NormalDX.jpg
+  artifactKey: Guid(0265d1bb67389ea47936c93d47f65efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Scene3/Rock/Rock037_1K-JPG_NormalDX.jpg using Guid(0265d1bb67389ea47936c93d47f65efe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0ed51f3dbfccedd0d6fc36b3eb039c3') in 0.016333 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.342 seconds
+Refreshing native plugins compatible for Editor in 1.55 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Auto Package] : Checking if required packages are included
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PackageChecker:CheckPackage ()
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+[Auto Package] : Couldn't find the packages list. Be sure there is a file called PackageImportList in your project
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+PackageChecker:CheckPackage ()
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.675 seconds
+Domain Reload Profiling: 1016ms
+	BeginReloadAssembly (128ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (22ms)
+	LoadAllAssembliesAndSetupDomain (156ms)
+		LoadAssemblies (209ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (9ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (675ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (368ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (50ms)
+			ProcessInitializeOnLoadAttributes (270ms)
+			ProcessInitializeOnLoadMethodAttributes (34ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 1.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3193 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 36 unused Assets / (1.3 MB). Loaded Objects now: 3844.
+Memory consumption went from 206.3 MB to 205.0 MB.
+Total: 3.427400 ms (FindLiveObjects: 0.371500 ms CreateObjectMapping: 0.096700 ms MarkObjects: 2.606400 ms  DeleteObjects: 0.351900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:scripting/monoscript/fileName/TrackballAttribute.cs: 8dea8f77de7bd03137cc578af1ea6656 -> b6bebfc375cd859fcabdbe7a117a8817
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/MinAttribute.cs: a3e7473301291585f4cca024ce307406 -> 04a8151f79cf6bc016fa377feaf7e471
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/VignetteModel.cs:  -> ab6733272f937ac0155aab47b4a8e58e
+  custom:scripting/monoscript/fileName/EyeAdaptationModel.cs:  -> 5bcc92c7d981d480ed07d6af7dd1a959
+  custom:scripting/monoscript/fileName/ExampleWheelController.cs:  -> 9600d370c57ff0da5766666ba4365a29
+  custom:scripting/monoscript/fileName/GetSetAttribute.cs:  -> b786c1938e0c0f5ecaf463807c2d7653
+  custom:scripting/monoscript/fileName/PostProcessingContext.cs:  -> be8a0bc1565c6324b1fd40a33f66279b
+  custom:scripting/monoscript/fileName/EyeAdaptationComponent.cs:  -> 0cb2aaf8cdc20c0baee2205168cbc73c
+  custom:scripting/monoscript/fileName/FxaaComponent.cs:  -> 9d1fd3efb92e1fef6fd176ee45003f08
+  custom:scripting/monoscript/fileName/DitheringModel.cs:  -> fa99c50231ddc7ca26b5d6c9a68b4b31
+  custom:scripting/monoscript/fileName/PostProcessingProfile.cs:  -> e94a21971fab43a541218a4f91e0403c
+  custom:scripting/monoscript/fileName/BuiltinDebugViewsModel.cs:  -> 4a09809f2c0ed6cca27229b06ce1d289
+  custom:scripting/monoscript/fileName/RenderTextureFactory.cs:  -> b11bc916a1a88ed67d986ee69a536511
+  custom:scripting/monoscript/fileName/DepthOfFieldModel.cs:  -> ab243c09a4b44fd7a53f73051db01cbc
+  custom:scripting/monoscript/fileName/ColorGradingModel.cs:  -> d1c2ef15f5e9e4868052777d51361b40
+  custom:scripting/monoscript/fileName/ScreenSpaceReflectionModel.cs:  -> 507d9c80d381478e1c14f5bfe34012ae
+  custom:scripting/monoscript/fileName/TrackballGroupAttribute.cs:  -> 6d071733b141a3fb3360b110560ed1cc
+  custom:scripting/monoscript/fileName/BloomComponent.cs:  -> 755f611bb4d32a54d162192a9fc6dd86
+  custom:scripting/monoscript/fileName/MotionBlurComponent.cs:  -> 6cf5a99eefa473d803af3e64f841a0a6
+  custom:scripting/monoscript/fileName/BuiltinDebugViewsComponent.cs:  -> 1b8215a7f6eae55c3fc6a97379498db3
+  custom:scripting/monoscript/fileName/AmbientOcclusionModel.cs:  -> ac26bcd19cab8c88e9b65cb75ee1c356
+  custom:scripting/monoscript/fileName/AmbientOcclusionComponent.cs:  -> ae5a7089fb97a5a97a8f11138ce7c9d2
+  custom:scripting/monoscript/fileName/GraphicsUtils.cs:  -> f7df21c2acb52bb931f99c0a424b6be0
+  custom:scripting/monoscript/fileName/DepthOfFieldComponent.cs:  -> b0afd8f8844e3e4017df6130c14d0dfc
+  custom:scripting/monoscript/fileName/ColorGradingCurve.cs:  -> e1e989893ee31e7801923212f0468312
+  custom:scripting/monoscript/fileName/AntialiasingModel.cs:  -> 325b0130eaada61513aeac7b8c97a9d7
+  custom:scripting/monoscript/fileName/ChromaticAberrationModel.cs:  -> 3f166f1ecbc6f39ed2f6b10cbc5b4ba4
+  custom:scripting/monoscript/fileName/TaaComponent.cs:  -> 7c343e97072a6712c3a2b01e75fdb7fa
+  custom:scripting/monoscript/fileName/PostProcessingModel.cs:  -> 2f64caba6afa59bc78865f13b6f9065d
+  custom:scripting/monoscript/fileName/ChromaticAberrationComponent.cs:  -> cda95994b71ba23d0c0f0fe0f241aab9
+  custom:scripting/monoscript/fileName/ScreenSpaceReflectionComponent.cs:  -> 79ad7ef64576d014e73a91b6c3af0688
+  custom:scripting/monoscript/fileName/MotionBlurModel.cs:  -> 4e24ef1d444a45a9e0056ed75c7c7eb7
+  custom:scripting/monoscript/fileName/PostProcessingComponent.cs:  -> 85236d6b86a55b2f46a14367ab625049
+  custom:scripting/monoscript/fileName/MaterialFactory.cs:  -> 39b00f1518fc675c62e508eb4bdec486
+  custom:scripting/monoscript/fileName/ColorGradingComponent.cs:  -> fc28099e3cee649b1f5925a07b57ea96
+  custom:scripting/monoscript/fileName/UserLutModel.cs:  -> ce559ad59b29fc066f37249281afd441
+  custom:scripting/monoscript/fileName/GrainComponent.cs:  -> fae958f48caa0fab6bcf7f9c48b915e1
+  custom:scripting/monoscript/fileName/FogComponent.cs:  -> 2dfe6d4c859eabd11b82ff8fc7d7ad22
+  custom:scripting/monoscript/fileName/VignetteComponent.cs:  -> 293deb083808f71d2d18d818ef588272
+  custom:scripting/monoscript/fileName/FogModel.cs:  -> c4cd4da1fb97c7abf787083602f52bf5
+  custom:scripting/monoscript/fileName/DitheringComponent.cs:  -> 83d905897534466960141b85361bb6b4
+  custom:scripting/monoscript/fileName/UserLutComponent.cs:  -> 944143ce5f543a40c92ecea777f35ae4
+  custom:scripting/monoscript/fileName/PostProcessingBehaviour.cs:  -> b0fbf7f67aeee9a6f7db03386dbc8c1e
+  custom:scripting/monoscript/fileName/BloomModel.cs:  -> b4ba3e478c2698eb99512ead9d78d360
+  custom:scripting/monoscript/fileName/GrainModel.cs:  -> ce4589c9bbcb55f8f632b6617dc5d1f0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.353 seconds
+Refreshing native plugins compatible for Editor in 1.47 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Auto Package] : Checking if required packages are included
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PackageChecker:CheckPackage ()
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+[Auto Package] : Couldn't find the packages list. Be sure there is a file called PackageImportList in your project
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+PackageChecker:CheckPackage ()
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.689 seconds
+Domain Reload Profiling: 1041ms
+	BeginReloadAssembly (128ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (35ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (23ms)
+	LoadAllAssembliesAndSetupDomain (158ms)
+		LoadAssemblies (210ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (689ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (359ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (5ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (49ms)
+			ProcessInitializeOnLoadAttributes (261ms)
+			ProcessInitializeOnLoadMethodAttributes (35ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
+Refreshing native plugins compatible for Editor in 2.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3194 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 36 unused Assets / (1.3 MB). Loaded Objects now: 3847.
+Memory consumption went from 208.5 MB to 207.2 MB.
+Total: 3.489700 ms (FindLiveObjects: 0.481800 ms CreateObjectMapping: 0.134300 ms MarkObjects: 2.533000 ms  DeleteObjects: 0.338900 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:scripting/monoscript/fileName/TrackballAttribute.cs: 8dea8f77de7bd03137cc578af1ea6656 -> b6bebfc375cd859fcabdbe7a117a8817
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/MinAttribute.cs: a3e7473301291585f4cca024ce307406 -> 04a8151f79cf6bc016fa377feaf7e471
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/VignetteModel.cs:  -> ab6733272f937ac0155aab47b4a8e58e
+  custom:scripting/monoscript/fileName/EyeAdaptationModel.cs:  -> 5bcc92c7d981d480ed07d6af7dd1a959
+  custom:scripting/monoscript/fileName/ExampleWheelController.cs:  -> 9600d370c57ff0da5766666ba4365a29
+  custom:scripting/monoscript/fileName/GetSetAttribute.cs:  -> b786c1938e0c0f5ecaf463807c2d7653
+  custom:scripting/monoscript/fileName/PostProcessingContext.cs:  -> be8a0bc1565c6324b1fd40a33f66279b
+  custom:scripting/monoscript/fileName/EyeAdaptationComponent.cs:  -> 0cb2aaf8cdc20c0baee2205168cbc73c
+  custom:scripting/monoscript/fileName/FxaaComponent.cs:  -> 9d1fd3efb92e1fef6fd176ee45003f08
+  custom:scripting/monoscript/fileName/DitheringModel.cs:  -> fa99c50231ddc7ca26b5d6c9a68b4b31
+  custom:scripting/monoscript/fileName/PostProcessingProfile.cs:  -> e94a21971fab43a541218a4f91e0403c
+  custom:scripting/monoscript/fileName/BuiltinDebugViewsModel.cs:  -> 4a09809f2c0ed6cca27229b06ce1d289
+  custom:scripting/monoscript/fileName/RenderTextureFactory.cs:  -> b11bc916a1a88ed67d986ee69a536511
+  custom:scripting/monoscript/fileName/DepthOfFieldModel.cs:  -> ab243c09a4b44fd7a53f73051db01cbc
+  custom:scripting/monoscript/fileName/ColorGradingModel.cs:  -> d1c2ef15f5e9e4868052777d51361b40
+  custom:scripting/monoscript/fileName/ScreenSpaceReflectionModel.cs:  -> 507d9c80d381478e1c14f5bfe34012ae
+  custom:scripting/monoscript/fileName/TrackballGroupAttribute.cs:  -> 6d071733b141a3fb3360b110560ed1cc
+  custom:scripting/monoscript/fileName/BloomComponent.cs:  -> 755f611bb4d32a54d162192a9fc6dd86
+  custom:scripting/monoscript/fileName/MotionBlurComponent.cs:  -> 6cf5a99eefa473d803af3e64f841a0a6
+  custom:scripting/monoscript/fileName/BuiltinDebugViewsComponent.cs:  -> 1b8215a7f6eae55c3fc6a97379498db3
+  custom:scripting/monoscript/fileName/AmbientOcclusionModel.cs:  -> ac26bcd19cab8c88e9b65cb75ee1c356
+  custom:scripting/monoscript/fileName/AmbientOcclusionComponent.cs:  -> ae5a7089fb97a5a97a8f11138ce7c9d2
+  custom:scripting/monoscript/fileName/GraphicsUtils.cs:  -> f7df21c2acb52bb931f99c0a424b6be0
+  custom:scripting/monoscript/fileName/DepthOfFieldComponent.cs:  -> b0afd8f8844e3e4017df6130c14d0dfc
+  custom:scripting/monoscript/fileName/ColorGradingCurve.cs:  -> e1e989893ee31e7801923212f0468312
+  custom:scripting/monoscript/fileName/AntialiasingModel.cs:  -> 325b0130eaada61513aeac7b8c97a9d7
+  custom:scripting/monoscript/fileName/ChromaticAberrationModel.cs:  -> 3f166f1ecbc6f39ed2f6b10cbc5b4ba4
+  custom:scripting/monoscript/fileName/TaaComponent.cs:  -> 7c343e97072a6712c3a2b01e75fdb7fa
+  custom:scripting/monoscript/fileName/PostProcessingModel.cs:  -> 2f64caba6afa59bc78865f13b6f9065d
+  custom:scripting/monoscript/fileName/ChromaticAberrationComponent.cs:  -> cda95994b71ba23d0c0f0fe0f241aab9
+  custom:scripting/monoscript/fileName/ScreenSpaceReflectionComponent.cs:  -> 79ad7ef64576d014e73a91b6c3af0688
+  custom:scripting/monoscript/fileName/MotionBlurModel.cs:  -> 4e24ef1d444a45a9e0056ed75c7c7eb7
+  custom:scripting/monoscript/fileName/PostProcessingComponent.cs:  -> 85236d6b86a55b2f46a14367ab625049
+  custom:scripting/monoscript/fileName/MaterialFactory.cs:  -> 39b00f1518fc675c62e508eb4bdec486
+  custom:scripting/monoscript/fileName/ColorGradingComponent.cs:  -> fc28099e3cee649b1f5925a07b57ea96
+  custom:scripting/monoscript/fileName/UserLutModel.cs:  -> ce559ad59b29fc066f37249281afd441
+  custom:scripting/monoscript/fileName/GrainComponent.cs:  -> fae958f48caa0fab6bcf7f9c48b915e1
+  custom:scripting/monoscript/fileName/FogComponent.cs:  -> 2dfe6d4c859eabd11b82ff8fc7d7ad22
+  custom:scripting/monoscript/fileName/VignetteComponent.cs:  -> 293deb083808f71d2d18d818ef588272
+  custom:scripting/monoscript/fileName/FogModel.cs:  -> c4cd4da1fb97c7abf787083602f52bf5
+  custom:scripting/monoscript/fileName/DitheringComponent.cs:  -> 83d905897534466960141b85361bb6b4
+  custom:scripting/monoscript/fileName/UserLutComponent.cs:  -> 944143ce5f543a40c92ecea777f35ae4
+  custom:scripting/monoscript/fileName/PostProcessingBehaviour.cs:  -> b0fbf7f67aeee9a6f7db03386dbc8c1e
+  custom:scripting/monoscript/fileName/BloomModel.cs:  -> b4ba3e478c2698eb99512ead9d78d360
+  custom:scripting/monoscript/fileName/GrainModel.cs:  -> ce4589c9bbcb55f8f632b6617dc5d1f0
+========================================================================
+Received Import Request.
+  Time since last request: 607.354065 seconds.
+  path: Assets/Materials/Scene3/Rock/Rock037_1K-JPG_NormalGL.jpg
+  artifactKey: Guid(2cb66f35af5ad114087ed26c1cbab056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Scene3/Rock/Rock037_1K-JPG_NormalGL.jpg using Guid(2cb66f35af5ad114087ed26c1cbab056) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e6b3852bf61e86b176f22d4bfb383b') in 0.058332 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.360 seconds
+Refreshing native plugins compatible for Editor in 1.42 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Auto Package] : Checking if required packages are included
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+PackageChecker:CheckPackage ()
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+[Auto Package] : Couldn't find the packages list. Be sure there is a file called PackageImportList in your project
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+PackageChecker:CheckPackage ()
+System.Reflection.RuntimeMethodInfo:Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo)
+System.Reflection.MethodBase:Invoke (object,object[])
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.703 seconds
+Domain Reload Profiling: 1062ms
+	BeginReloadAssembly (130ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (25ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (28ms)
+	LoadAllAssembliesAndSetupDomain (163ms)
+		LoadAssemblies (219ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (10ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (704ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (376ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (55ms)
+			ProcessInitializeOnLoadAttributes (271ms)
+			ProcessInitializeOnLoadMethodAttributes (34ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Refreshing native plugins compatible for Editor in 1.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3193 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 36 unused Assets / (1.3 MB). Loaded Objects now: 3852.
+Memory consumption went from 210.2 MB to 208.9 MB.
+Total: 3.292400 ms (FindLiveObjects: 0.349100 ms CreateObjectMapping: 0.092200 ms MarkObjects: 2.524700 ms  DeleteObjects: 0.325500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:scripting/monoscript/fileName/TrackballAttribute.cs: 8dea8f77de7bd03137cc578af1ea6656 -> b6bebfc375cd859fcabdbe7a117a8817
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/MinAttribute.cs: a3e7473301291585f4cca024ce307406 -> 04a8151f79cf6bc016fa377feaf7e471
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/VignetteModel.cs:  -> ab6733272f937ac0155aab47b4a8e58e
+  custom:scripting/monoscript/fileName/EyeAdaptationModel.cs:  -> 5bcc92c7d981d480ed07d6af7dd1a959
+  custom:scripting/monoscript/fileName/ExampleWheelController.cs:  -> 9600d370c57ff0da5766666ba4365a29
+  custom:scripting/monoscript/fileName/GetSetAttribute.cs:  -> b786c1938e0c0f5ecaf463807c2d7653
+  custom:scripting/monoscript/fileName/PostProcessingContext.cs:  -> be8a0bc1565c6324b1fd40a33f66279b
+  custom:scripting/monoscript/fileName/EyeAdaptationComponent.cs:  -> 0cb2aaf8cdc20c0baee2205168cbc73c
+  custom:scripting/monoscript/fileName/FxaaComponent.cs:  -> 9d1fd3efb92e1fef6fd176ee45003f08
+  custom:scripting/monoscript/fileName/DitheringModel.cs:  -> fa99c50231ddc7ca26b5d6c9a68b4b31
+  custom:scripting/monoscript/fileName/PostProcessingProfile.cs:  -> e94a21971fab43a541218a4f91e0403c
+  custom:scripting/monoscript/fileName/BuiltinDebugViewsModel.cs:  -> 4a09809f2c0ed6cca27229b06ce1d289
+  custom:scripting/monoscript/fileName/RenderTextureFactory.cs:  -> b11bc916a1a88ed67d986ee69a536511
+  custom:scripting/monoscript/fileName/DepthOfFieldModel.cs:  -> ab243c09a4b44fd7a53f73051db01cbc
+  custom:scripting/monoscript/fileName/ColorGradingModel.cs:  -> d1c2ef15f5e9e4868052777d51361b40
+  custom:scripting/monoscript/fileName/ScreenSpaceReflectionModel.cs:  -> 507d9c80d381478e1c14f5bfe34012ae
+  custom:scripting/monoscript/fileName/TrackballGroupAttribute.cs:  -> 6d071733b141a3fb3360b110560ed1cc
+  custom:scripting/monoscript/fileName/BloomComponent.cs:  -> 755f611bb4d32a54d162192a9fc6dd86
+  custom:scripting/monoscript/fileName/MotionBlurComponent.cs:  -> 6cf5a99eefa473d803af3e64f841a0a6
+  custom:scripting/monoscript/fileName/BuiltinDebugViewsComponent.cs:  -> 1b8215a7f6eae55c3fc6a97379498db3
+  custom:scripting/monoscript/fileName/AmbientOcclusionModel.cs:  -> ac26bcd19cab8c88e9b65cb75ee1c356
+  custom:scripting/monoscript/fileName/AmbientOcclusionComponent.cs:  -> ae5a7089fb97a5a97a8f11138ce7c9d2
+  custom:scripting/monoscript/fileName/GraphicsUtils.cs:  -> f7df21c2acb52bb931f99c0a424b6be0
+  custom:scripting/monoscript/fileName/DepthOfFieldComponent.cs:  -> b0afd8f8844e3e4017df6130c14d0dfc
+  custom:scripting/monoscript/fileName/ColorGradingCurve.cs:  -> e1e989893ee31e7801923212f0468312
+  custom:scripting/monoscript/fileName/AntialiasingModel.cs:  -> 325b0130eaada61513aeac7b8c97a9d7
+  custom:scripting/monoscript/fileName/ChromaticAberrationModel.cs:  -> 3f166f1ecbc6f39ed2f6b10cbc5b4ba4
+  custom:scripting/monoscript/fileName/TaaComponent.cs:  -> 7c343e97072a6712c3a2b01e75fdb7fa
+  custom:scripting/monoscript/fileName/PostProcessingModel.cs:  -> 2f64caba6afa59bc78865f13b6f9065d
+  custom:scripting/monoscript/fileName/ChromaticAberrationComponent.cs:  -> cda95994b71ba23d0c0f0fe0f241aab9
+  custom:scripting/monoscript/fileName/ScreenSpaceReflectionComponent.cs:  -> 79ad7ef64576d014e73a91b6c3af0688
+  custom:scripting/monoscript/fileName/MotionBlurModel.cs:  -> 4e24ef1d444a45a9e0056ed75c7c7eb7
+  custom:scripting/monoscript/fileName/PostProcessingComponent.cs:  -> 85236d6b86a55b2f46a14367ab625049
+  custom:scripting/monoscript/fileName/MaterialFactory.cs:  -> 39b00f1518fc675c62e508eb4bdec486
+  custom:scripting/monoscript/fileName/ColorGradingComponent.cs:  -> fc28099e3cee649b1f5925a07b57ea96
+  custom:scripting/monoscript/fileName/UserLutModel.cs:  -> ce559ad59b29fc066f37249281afd441
+  custom:scripting/monoscript/fileName/GrainComponent.cs:  -> fae958f48caa0fab6bcf7f9c48b915e1
+  custom:scripting/monoscript/fileName/FogComponent.cs:  -> 2dfe6d4c859eabd11b82ff8fc7d7ad22
+  custom:scripting/monoscript/fileName/VignetteComponent.cs:  -> 293deb083808f71d2d18d818ef588272
+  custom:scripting/monoscript/fileName/FogModel.cs:  -> c4cd4da1fb97c7abf787083602f52bf5
+  custom:scripting/monoscript/fileName/DitheringComponent.cs:  -> 83d905897534466960141b85361bb6b4
+  custom:scripting/monoscript/fileName/UserLutComponent.cs:  -> 944143ce5f543a40c92ecea777f35ae4
+  custom:scripting/monoscript/fileName/PostProcessingBehaviour.cs:  -> b0fbf7f67aeee9a6f7db03386dbc8c1e
+  custom:scripting/monoscript/fileName/BloomModel.cs:  -> b4ba3e478c2698eb99512ead9d78d360
+  custom:scripting/monoscript/fileName/GrainModel.cs:  -> ce4589c9bbcb55f8f632b6617dc5d1f0
+========================================================================
+Received Import Request.
+  Time since last request: 130.517821 seconds.
+  path: Assets/Materials/Scene3/Rock/Rock2/Bark006_1K-PNG_Color.png
+  artifactKey: Guid(7942548e360bb784e8baadcc7737febc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Scene3/Rock/Rock2/Bark006_1K-PNG_Color.png using Guid(7942548e360bb784e8baadcc7737febc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08d852293d651b57adf3fd26cefff574') in 0.052207 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Materials/Scene3/Rock/Rock2/Bark006_1K-PNG_Roughness.png
+  artifactKey: Guid(16ac031aae640964a945bcc9d0af9acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Scene3/Rock/Rock2/Bark006_1K-PNG_Roughness.png using Guid(16ac031aae640964a945bcc9d0af9acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1862601f5a973f4320132b2d5abd5c7b') in 0.018145 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

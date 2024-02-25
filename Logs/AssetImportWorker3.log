@@ -4729,3 +4729,24 @@ AssetImportParameters requested are different than current active one (requested
   custom:scripting/monoscript/fileName/PostProcessingBehaviour.cs:  -> b0fbf7f67aeee9a6f7db03386dbc8c1e
   custom:scripting/monoscript/fileName/BloomModel.cs:  -> b4ba3e478c2698eb99512ead9d78d360
   custom:scripting/monoscript/fileName/GrainModel.cs:  -> ce4589c9bbcb55f8f632b6617dc5d1f0
+========================================================================
+Received Import Request.
+  Time since last request: 1173.238657 seconds.
+  path: Assets/Materials/Scene3/Rock/Rock037_1K-JPG_Color.jpg
+  artifactKey: Guid(a2c60d47e72a99241a33da497b6d4412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Scene3/Rock/Rock037_1K-JPG_Color.jpg using Guid(a2c60d47e72a99241a33da497b6d4412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '060c82c3dba99c8183a51274a8a0b125') in 0.060611 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Materials/Scene3/Rock/Rock037_1K-JPG_Displacement.jpg
+  artifactKey: Guid(a7196b8e2be5c4c4e9df44b6eadf3cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Scene3/Rock/Rock037_1K-JPG_Displacement.jpg using Guid(a7196b8e2be5c4c4e9df44b6eadf3cbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8983d7b54efd9d48ede268fcac0da07c') in 0.019420 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: La operación de E/S se anuló por una salida de subproceso o por una solicitud de aplicación.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
