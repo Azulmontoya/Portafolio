@@ -165,7 +165,7 @@ MonoBehaviour:
   - {fileID: 1160590069}
   - {fileID: 1526739798}
   - {fileID: 2065201845}
-  selectionable: 1
+  selectionable: 0
 --- !u!4 &177520604
 Transform:
   m_ObjectHideFlags: 0
@@ -193,6 +193,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d43c018b0aa39a42ad91e4337fab5c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  instruction: {fileID: 0}
 --- !u!1 &502217899
 GameObject:
   m_ObjectHideFlags: 0
@@ -2290,9 +2291,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 177520605}
-        m_TargetAssemblyTypeName: ManagerScene, Assembly-CSharp
-        m_MethodName: Scene1
+      - m_Target: {fileID: 177520603}
+        m_TargetAssemblyTypeName: UIManager, Assembly-CSharp
+        m_MethodName: SelectScene
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

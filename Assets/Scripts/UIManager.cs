@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
-
+using UnityEngine.SceneManagement;
 public class UIManager : MonoBehaviour
 {
     public GameObject Canvas_Introduction;
@@ -56,6 +56,22 @@ public class UIManager : MonoBehaviour
         for (int i = 0; i < dragonSelectedObjects.Length; i++)
         {
             dragonSelectedObjects[i].SetActive(i == selectionable);
+        }
+    }
+
+    public void SelectScene()
+    {
+        switch (selectionable)
+        {
+            case 0:
+                SceneManager.LoadScene("Level_Dragon_Fire");
+                break;
+            case 1:
+                SceneManager.LoadScene("Level_Dragon_Snow");
+                break;
+            default:
+                SceneManager.LoadScene("Level_Dragon_Rock");
+                break;
         }
     }
 }
