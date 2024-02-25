@@ -14,11 +14,33 @@ public class RotationObject : MonoBehaviour
             mousePresionado = true;
             puntoInicial = Input.mousePosition;
             velocidadRotacionActual = 0.0f;
+
+            // Desactiva el script llamado "Player" en el objeto con el tag "Player"
+            GameObject playerObject = GameObject.FindGameObjectWithTag("Player");
+            if (playerObject != null)
+            {
+                Player playerScript = playerObject.GetComponent<Player>();
+                if (playerScript != null)
+                {
+                    playerScript.enabled = false;
+                }
+            }
+
         }
 
         if (Input.GetMouseButtonUp(0))
         {
             mousePresionado = false;
+            // Activa el script llamado "Player" en el objeto con el tag "Player"
+            GameObject playerObject = GameObject.FindGameObjectWithTag("Player");
+            if (playerObject != null)
+            {
+                Player playerScript = playerObject.GetComponent<Player>();
+                if (playerScript != null)
+                {
+                    playerScript.enabled = true;
+                }
+            }
         }
 
         if (mousePresionado)
