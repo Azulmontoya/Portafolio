@@ -3,6 +3,8 @@ using UnityEngine;
 public class Dragon : MonoBehaviour
 {
     private Animation anim;
+    public GameObject fireflame;
+    private bool isAnimation1Active = true;
 
     void Start()
     {
@@ -12,16 +14,22 @@ public class Dragon : MonoBehaviour
 
     void Update()
     {
-        // Activa la animación1 al presionar la tecla "F"
+        // Activa la animación1 o animación2 al presionar la tecla "P"
         if (Input.GetKeyDown(KeyCode.P))
         {
-            ActivarAnimacion("Take 001");
-        }
+            if (isAnimation1Active)
+            {
+                ActivarAnimacion("Take 001");
+                fireflame.SetActive(true);
+            }
+            else
+            {
+                ActivarAnimacion("Take 002");
+                fireflame.SetActive(false);
+            }
 
-        // Activa la animación2 al presionar la tecla de espacio
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            ActivarAnimacion("Take 002");
+            // Cambia el estado del booleano para la próxima vez
+            isAnimation1Active = !isAnimation1Active;
         }
     }
 
