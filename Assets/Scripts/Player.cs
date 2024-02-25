@@ -13,7 +13,8 @@ public class Player : MonoBehaviour
 
     void Start()
     {
-        Cursor.lockState = CursorLockMode.Locked; // Bloquear el cursor al inicio
+        Cursor.lockState = CursorLockMode.None; // Desbloquear el cursor al inicio
+        Cursor.visible = true; // Hacer el cursor visible
         camara = GetComponentInChildren<Camera>();
         characterController = GetComponent<CharacterController>();
     }
