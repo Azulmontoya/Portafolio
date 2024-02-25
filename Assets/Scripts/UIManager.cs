@@ -11,16 +11,21 @@ public class UIManager : MonoBehaviour
     public GameObject[] dragonSelectedObjects;  // Usamos un array para almacenar los objetos DragonSelected
     public int selectionable = 0;  // Cambié el valor inicial para que pueda ser 0, 1, 2, 3
     public int selectionableLevel = 3;
+
+    public GameObject InfoDragon_0;
+    public GameObject InfoDragon_1;
+    public GameObject InfoDragon_2;
     void Start()
     {
         // Obtén la instancia del Singleton
         SingletonManager singletonManager = SingletonManager.Instancia;
         // Lee el valor de la propiedad 'selection' del Singleton y asígnalo a 'selectionable'
         selectionableLevel = singletonManager.selection;
-        if(selectionableLevel != 3 ){
-           Canvas_Introduction.SetActive(false);
-           Canvas_Selection.SetActive(false);
-           Dragon_Selection.SetActive(true);
+        if (selectionableLevel != 3)
+        {
+            Canvas_Introduction.SetActive(false);
+            Canvas_Selection.SetActive(false);
+            Dragon_Selection.SetActive(true);
         }
     }
 
@@ -79,6 +84,22 @@ public class UIManager : MonoBehaviour
                 break;
             default:
                 SceneManager.LoadScene("Level_Dragon_Rock");
+                break;
+        }
+    }
+
+    public void InfoDragon()
+    {
+        switch (selectionable)
+        {
+            case 0:
+                InfoDragon_0.SetActive(true);
+                break;
+            case 1:
+                InfoDragon_1.SetActive(true);
+                break;
+            default:
+                InfoDragon_2.SetActive(true);
                 break;
         }
     }
